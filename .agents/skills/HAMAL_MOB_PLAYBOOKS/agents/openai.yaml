@@ -1,0 +1,6 @@
+interface:
+  display_name: "HAMAL MOB PLAYBOOKS"
+  short_description: "Repo-specific patterns and workflows for HAMAL_MOB_PLAYBOOKS"
+  default_prompt: "Use the HAMAL_MOB_PLAYBOOKS repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
