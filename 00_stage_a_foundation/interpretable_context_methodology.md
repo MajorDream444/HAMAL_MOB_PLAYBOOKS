@@ -178,9 +178,9 @@ How Codex/execution agents should use the skill.
 └── validation.md
 ```
 
-## HAMAL Folder Strategy
+## Historical Folder Strategy
 
-The HAMAL ecosystem should organize knowledge into:
+The following folder strategy was an early proposed structure:
 
 ```text
 00_stage_a_foundation/
@@ -193,6 +193,23 @@ The HAMAL ecosystem should organize knowledge into:
 07_rubrics/
 08_outputs/
 09_archive/
+```
+
+It is not the current canonical repo spine.
+
+The canonical HAMAL repo spine is defined in `README.md`:
+
+```text
+00_stage_a_foundation/
+01_sops/
+02_playbooks/
+03_mobs/
+04_industries/
+05_templates/
+06_audits/
+07_rubrics/
+08_agent_context/
+09_sources/
 ```
 
 ## Playbook Rule
