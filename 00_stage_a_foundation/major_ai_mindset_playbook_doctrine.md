@@ -128,9 +128,10 @@ HAMAL means Hanzo + AMA + Lux.
 
 The vertical stack combines:
 
-- Hanzo: AI agents, orchestration, compute, automation
-- AMA / HAMAL MOB: strategy, playbooks, client systems, creative operating doctrine
-- Lux: blockchain, tokenization, DeFi, RWA rails, digital ownership
+- HAMAL: orchestration, doctrine, playbook systems, and cross-system coordination
+- AMA / HAMAL MOB: agents, workspaces, playbooks, SOPs, rubrics, routing, and operational memory
+- Hanzo: AI infrastructure, model routing, tools, inference, execution primitives, and APIs
+- Lux: blockchain, tokenization, DeFi, RWA rails, digital ownership, identity, and provenance
 
 This gives the system more than automation. It gives it intelligence, execution, and ownership rails.
 

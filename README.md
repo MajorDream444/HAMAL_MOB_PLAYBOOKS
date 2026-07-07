@@ -1,6 +1,6 @@
 # HAMAL MOB PLAYBOOKS
 
-HAMAL MOB PLAYBOOKS is the doctrine, systems, SOP, and playbook library for the Hanzo / Lux / Major Prime agent operating system.
+HAMAL MOB PLAYBOOKS is the doctrine, systems, SOP, and playbook library for the HAMAL operating system.
 
 This repository defines how agents understand context, use skills, call tools, follow playbooks, and serve specific industries.
 
@@ -41,7 +41,19 @@ Current stage:
 
 No autonomous execution should happen until the context layer, playbooks, SOPs, and audit structure are clear.
 
+Canonical boundary:
+
+```txt
+HAMAL orchestrates.
+AMA operates.
+Hanzo provides AI infrastructure.
+Lux provides sovereignty.
+MAIM teaches people how to use the system.
+```
+
 ## Repository Sections
+
+This is the canonical HAMAL repo spine.
 
 - `00_stage_a_foundation/` — foundation doctrine
 - `01_sops/` — standard operating procedures

@@ -210,7 +210,7 @@ Additional needed skills:
 - Gumroad / Shopify for digital products or offers
 - Calendar booking tool
 - Google Drive / cloud storage for media archive
-- Hanzo agents for analysis, routing, and content production
+- AMA agents using Hanzo infrastructure for analysis, routing, and content production
 - Lux rails later for IP / likeness / asset ownership experiments
 
 ## MCPs Needed
