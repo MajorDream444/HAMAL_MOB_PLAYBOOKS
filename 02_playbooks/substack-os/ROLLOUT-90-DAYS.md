@@ -22,7 +22,7 @@ Each folder includes SKILL.md, agents/openai.yaml, operating context and evaluat
 | Week | Dates | Focus | Completion evidence |
 |---|---|---|---|
 | 1 | Oct 3–9 | First eight; positioning; baseline; welcome draft | Skills validated; baseline export or missing-data list; one approved packet |
-| 2 | Oct 10–16 | Raw Thought Intake; Evidence & Claims Review; Editorial Series Planner | Raw archive preserved; claim ledger; two-week editorial plan |
+| 2 | Oct 10–16 | Raw Thought Intake; Evidence & Claims Review; Editorial Series Planner; Reaction Doctrine Analyst | Raw archive preserved; claim ledger; two-week editorial plan |
 | 3 | Oct 17–23 | Headline & Opening Lab; Publication Navigation; Distribution Adapter | Tested opening variants; start-here draft; one article adaptation |
 | 4 | Oct 24–30 | Recommendations & Collaboration Scout; Reader Referral Designer | Relevant shortlist and draft; referral fulfillment costs and proposal |
 | 5 | Oct 31–Nov 6 | Community Conversation Host; Live Session Producer | Community needs summary; first live agenda; day-30 review |
