@@ -1,0 +1,4 @@
+interface:
+  display_name: "Publication Positioning"
+  short_description: "Grow Major’s publication with clear workflows"
+  default_prompt: "Use $substack-publication-positioning for Major Dream Williams Substack OS."

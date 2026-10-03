@@ -1,0 +1,4 @@
+interface:
+  display_name: "Notes Growth Studio"
+  short_description: "Grow Major’s publication with clear workflows"
+  default_prompt: "Use $substack-notes-growth-studio for Major Dream Williams Substack OS."

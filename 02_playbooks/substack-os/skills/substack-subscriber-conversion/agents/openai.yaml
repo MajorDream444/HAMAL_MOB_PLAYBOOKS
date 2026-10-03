@@ -1,0 +1,4 @@
+interface:
+  display_name: "Subscriber Conversion"
+  short_description: "Grow Major’s publication with clear workflows"
+  default_prompt: "Use $substack-subscriber-conversion for Major Dream Williams Substack OS."

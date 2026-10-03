@@ -1,0 +1,14 @@
+interface:
+  display_name: Mission Control Handoff
+  short_description: Grow Major’s publication with clear workflows
+  default_prompt: Use $substack-mission-control-handoff for Major Dream Williams Substack
+    OS.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

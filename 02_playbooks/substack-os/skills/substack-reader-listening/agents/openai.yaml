@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reader Listening"
+  short_description: "Grow Major’s publication with clear workflows"
+  default_prompt: "Use $substack-reader-listening for Major Dream Williams Substack OS."
