@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reaction Doctrine Analyst"
+  short_description: "Extract the system underneath public videos, podcasts, intervi"
+  default_prompt: "Use $substack-reaction-doctrine-analyst for Major Dream Williams Substack OS."

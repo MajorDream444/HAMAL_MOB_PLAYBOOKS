@@ -1,0 +1,4 @@
+interface:
+  display_name: "Headline & Opening Lab"
+  short_description: "Develop honest headlines and openings for Major Dream Williams"
+  default_prompt: "Use $substack-headline-opening-lab for Major Dream Williams Substack OS."

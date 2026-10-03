@@ -1,0 +1,4 @@
+interface:
+  display_name: "Raw Thought Intake"
+  short_description: "Preserve and classify Major Dream Williams raw thoughts, voice"
+  default_prompt: "Use $substack-raw-thought-intake for Major Dream Williams Substack OS."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recommendations & Collaboration Scout"
+  short_description: "Find evidence-backed Substack collaborators and recommendation"
+  default_prompt: "Use $substack-recommendations-collaboration-scout for Major Dream Williams Substack OS."

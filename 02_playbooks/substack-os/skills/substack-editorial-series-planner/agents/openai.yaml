@@ -1,0 +1,4 @@
+interface:
+  display_name: "Editorial Series Planner"
+  short_description: "Plan connected Substack series and sustainable editorial calen"
+  default_prompt: "Use $substack-editorial-series-planner for Major Dream Williams Substack OS."

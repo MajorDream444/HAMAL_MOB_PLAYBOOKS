@@ -1,0 +1,4 @@
+interface:
+  display_name: "Publication Navigation"
+  short_description: "Organize Major Dream Williams Substack archive into reader jou"
+  default_prompt: "Use $substack-publication-navigation for Major Dream Williams Substack OS."

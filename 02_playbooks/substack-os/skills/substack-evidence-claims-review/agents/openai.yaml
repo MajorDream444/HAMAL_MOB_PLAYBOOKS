@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evidence & Claims Review"
+  short_description: "Audit factual claims in Substack drafts with source-level evid"
+  default_prompt: "Use $substack-evidence-claims-review for Major Dream Williams Substack OS."

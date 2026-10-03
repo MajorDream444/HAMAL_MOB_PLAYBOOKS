@@ -1,0 +1,4 @@
+interface:
+  display_name: "Distribution Adapter"
+  short_description: "Adapt Major Dream Williams Substack work for external distribu"
+  default_prompt: "Use $substack-distribution-adapter for Major Dream Williams Substack OS."
