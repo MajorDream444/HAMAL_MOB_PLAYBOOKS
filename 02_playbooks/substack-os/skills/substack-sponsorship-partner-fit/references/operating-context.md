@@ -1,0 +1,9 @@
+# Substack OS context
+Version 1.0, October 3, 2026. Owner: Major Dream Williams. Goal: relevant audience growth, trust, monetization through subscriptions, tools, guided implementation and appropriate MAIM/AMA pathways.
+Mission Control is the authority. SUBSTACK-AUTOMATION-ENGINE produces artifacts. Current handover describes dry-run publishing only; verify repository state before integration changes. GitHub remembers; Airtable tracks; Notion shows. Do not duplicate global UI or approval.
+Primary lanes: BWYH; Contour; SAF; Major AI OS; Doctrine; Reaction Doctrine. Do not expand undefined acronyms. Reaction Doctrine requires a credible system underneath; otherwise block and cap score at 50. High-risk finance/legal/geopolitical content requires manual review.
+Preserve three versions: immutable raw source, edited public version, clip/video version. Voice: conversational, direct, provocative when useful, high signal. Preserve argument and personality while removing distractions. Use MAIM (Major Artificial Intelligence Mindset). HAMAL means Hanzo + AMA (Art Mob AGInts) + Lux. Never substitute alternate spellings.
+Audience hypothesis, not established fact: creators, coaches and independent founders turning talent into systems and ownership. Broader diaspora, culture, athlete and worker-to-ownership stories should connect to the reader promise.
+Platform: https://majordreamwilliams.substack.com/ . Content inventory and state come from the supplied handover, not a live audit. Ask for exports when analytics are unavailable. Followers, free subscribers and paid subscribers are separate measures. Platform features and account access must be verified.
+
+User-provided profile: https://substack.com/@majordreamwilliams . Linked MAIM YouTube: https://www.youtube.com/@major_ai_mindset . Account access, live configuration and analytics are not verified.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audience Portability"
+  short_description: "Build reader value and sustainable monetization"
+  default_prompt: "Use $substack-audience-portability for Major Dream Williams Substack OS."

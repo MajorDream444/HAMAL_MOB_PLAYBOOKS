@@ -1,0 +1,4 @@
+interface:
+  display_name: "Localization Editor"
+  short_description: "Build reader value and sustainable monetization"
+  default_prompt: "Use $substack-localization-editor for Major Dream Williams Substack OS."

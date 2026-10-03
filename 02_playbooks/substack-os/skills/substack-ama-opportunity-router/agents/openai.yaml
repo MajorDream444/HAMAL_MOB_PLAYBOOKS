@@ -1,0 +1,4 @@
+interface:
+  display_name: "AMA Opportunity Router"
+  short_description: "Build reader value and sustainable monetization"
+  default_prompt: "Use $substack-ama-opportunity-router for Major Dream Williams Substack OS."
