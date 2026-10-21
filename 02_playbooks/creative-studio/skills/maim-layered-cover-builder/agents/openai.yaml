@@ -1,0 +1,14 @@
+interface:
+  display_name: Layered Cover Builder
+  short_description: Reusable MAIM creative production workflow
+  default_prompt: Use $maim-layered-cover-builder for this MAIM creative production
+    task.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
