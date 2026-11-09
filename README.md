@@ -81,3 +81,7 @@ Before adding a new tool, skill, repo, MCP, or agent, answer:
 ## Creative studio context — 21 October 2026
 
 Read [creative studio ownership, skill discovery and handoff context](08_agent_context/MAIM_CREATIVE_STUDIO_CONTEXT_2026-10-21.md) before related work. This is documentation connectivity; it does not activate generation, shared sign-in or publishing. Existing domain authority and release gates remain in force.
+
+## YAWDIE operating desk
+
+Start with the [local operating brief](08_agent_context/YAWDIE_HAMAL_OPERATING_BRIEF.md) and [HAMAL/YAWDIE asset register](06_audits/repos/HAMAL_YAWDIE_ASSET_REGISTER.md).

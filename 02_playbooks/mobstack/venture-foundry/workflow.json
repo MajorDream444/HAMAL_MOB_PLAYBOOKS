@@ -1,0 +1,36 @@
+{
+  "id": "venture-foundry-v1",
+  "status": "PROPOSAL",
+  "lifecycle": [
+    "IMAGINE",
+    "GROUND",
+    "ARCHITECT",
+    "BUILD",
+    "VERIFY",
+    "OPERATE",
+    "OWN",
+    "MULTIPLY"
+  ],
+  "doctrine": [
+    "MajorDream444/Major-AI-OS",
+    "MajorDream444/HAMAL_MOB_PLAYBOOKS"
+  ],
+  "requiredGates": [
+    "truth-gate",
+    "language-gate",
+    "authority-gate",
+    "capital-gate",
+    "ownership-gate"
+  ],
+  "humanGateOutcomes": [
+    "PASS",
+    "HOLD",
+    "REDIRECT",
+    "STOP"
+  ],
+  "firstWorkload": {
+    "repository": "MajorDream444/West-African-mobility-OS",
+    "mode": "read-only-reference",
+    "rule": "The workload owns mobility claims and decisions; MobStack must not copy or redefine them."
+  }
+}

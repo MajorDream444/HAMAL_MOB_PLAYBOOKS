@@ -1,0 +1,12 @@
+interface:
+  display_name: Mobstack Venture Discovery
+  short_description: Pressure-test a concept before the build handoff
+  default_prompt: Use $mobstack-venture-discovery to pressure-test this concept and
+    draft a decision brief.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
